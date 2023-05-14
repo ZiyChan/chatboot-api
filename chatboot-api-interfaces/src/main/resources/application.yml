@@ -1,0 +1,10 @@
+server:
+  port: 8090
+
+chatboot-api:
+  groupId: 88885824814422
+  cookie: zsxq_access_token=7B5F459D-794D-DD71-D699-2F7B394FC223_100957CB2757E387; zsxqsessionid=5755b6c834e2508b7e2c797e215fc8a5; abtest_env=product; sajssdk_2015_cross_new_user=1; sensorsdata2015jssdkcross={"distinct_id":"818851185851252","first_id":"18804547143b6d-05302e12ae99878-7b515477-1247616-18804547144abf","props":{},"identities":"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg4MDQ1NDcxNDNiNmQtMDUzMDJlMTJhZTk5ODc4LTdiNTE1NDc3LTEyNDc2MTYtMTg4MDQ1NDcxNDRhYmYiLCIkaWRlbnRpdHlfbG9naW5faWQiOiI4MTg4NTExODU4NTEyNTIifQ==","history_login_id":{"name":"$identity_login_id","value":"818851185851252"},"$device_id":"18804547143b6d-05302e12ae99878-7b515477-1247616-18804547144abf"}; UM_distinctid=188045c560c96-09676a070901e4-7b515477-130980-188045c560d169
+  openAiKey: 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
+  openAiModel: gpt-3.5-turbo
+  openAiTemperature: 0.7
+  proxyPort: 7890
